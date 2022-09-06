@@ -6,24 +6,6 @@ Data is more powerful when we share it with others! Let's use what we've learned
 
   ![Images/landingResize.png](Images/landingResize.png)
 
-## Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, add your HTML files along with three folders; `assets`, `Resources` and `visualizations`. 
-
-  * Include an `index.html` file in the main folder, which you will edit later and should be the landing page that a user first encounters when viewing your submission.
-
-  * Inside the `assets` folder, create two more folders: `css` and `images`, which you will use to store your CSS and image assets, respectively.
-
-  * The `Resources` folder should contain the CSV file with the data you are using for this website. The `visualizations` folder will contain the HTML pages that display your visualizations.
-
-4. Push the changes from Steps 1 through 3 to GitHub.
-
-5. Deploy to GitHub Pages. 
-
 ## Instructions 
 
 For this homework assignment, you'll create a website by using visualizations that were created in your Python-APIs homework, or you can use the [weather data](Resources/cities.csv) provided.
@@ -111,61 +93,7 @@ For an extra challenge, try the following:
 
 This section contains screenshots of each page that must be built, at varying screen widths. These are intended as a guide; you can meet the requirements without having the pages match the following images exactly.
 
-#### <a id="landing-page"></a>Landing page
 
-Large screen:
-
-![Landing page large screen](Images/landingResize.png)
-
-Small screen:
-
-![Landing page small screen](Images/landing-sm.png)
-￼
-
-#### <a id="comparisons-page"></a>Comparisons page
-
-Large screen:
-
-![comparison page large screen](Images/comparison-lg.png)
-
-Small screen:
-
-![comparison page small screen](Images/comparison-sm.png)
-
-#### <a id="data-page"></a>Data page
-
-Large screen:
-
-![data page large screen](Images/data-lg.png)
-
-
-Small screen:
-
-![data page small screen](Images/data-sm.png)
-
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one visualization page on two different screen sizes:
-
-Large screen:
-
-![visualize page large screen](Images/visualize-lg.png)
-
-Small screen:
-
-![visualize page small screen](Images/visualize-sm.png)
-
-#### <a id="navigation-menu"></a>Navigation menu
-
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
-
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-## Rubric
-
-[Unit 11 Homework Rubric](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
 
 - - -
 
